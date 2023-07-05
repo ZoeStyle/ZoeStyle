@@ -45,4 +45,9 @@
   ![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=white)
 
+**Github Stats**
+
+[![card](https://github-readme-stats.vercel.app/api?username=ZoeStyle&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoeStyle&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
  
