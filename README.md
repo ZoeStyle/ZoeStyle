@@ -20,8 +20,9 @@
 **Banco de Dados**
 
   ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-  ![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-D9281A?style=flat&logo=redis&logoColor=white)
   
 **DevOps**
 
