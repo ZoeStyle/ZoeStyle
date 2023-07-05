@@ -38,4 +38,10 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-007ACC?style=flat&logo=Jira&logoColor=white)
+
+**Sistemas Operacionais**
+
+  ![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=white)
+
  
