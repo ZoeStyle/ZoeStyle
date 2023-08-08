@@ -1,6 +1,6 @@
 <h3> :man: &nbsp;Sobre mim</h3>
 
-- 🤔 &nbsp; Tenho 29 anos sou engenheiro de software e pai do 👦🏻 Bernardo e da 👧🏻 Alice, atuo na area desde 2019, sendo minha maior especialidade o desenvolvimento web. Venho explorando novas tecnologias e ampliando meus conhecimentos na area de engenharia de software cloud.
+- 🤔 &nbsp; Tenho 29 anos sou engenheiro de software, atuo na area desde 2019, sendo minha maior especialidade o desenvolvimento web. Venho explorando novas tecnologias e ampliando meus conhecimentos na area de engenharia de software cloud.
 - 🎓 &nbsp; Sou graduado em **Sistemas de Informação** pela <a href="https://www.estacio.br">Estácio de Sá</a> e atualmente estou realizando o curso de pós-graduação em **Arquitetura de software, Ciência de dados e Cibersecurity** pela <a href="https://www.online.pucrs.br/pt-br/">Puc Paraná</a>.
 - 🌱 &nbsp; Estou expandindo meu conhecimento cada vez mais em **AWS**, **.NET** e **NodeJs** em projetos profissionais e pessoais.
 
